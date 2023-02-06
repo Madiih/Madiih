@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Madiih/Madiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m actuellement en formation 
 - 🌱 I’m currently learning le développement web et web mobile
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cadenet-jessy@hotmail.fr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
